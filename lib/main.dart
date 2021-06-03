@@ -64,7 +64,7 @@ class _TextInputWidgetState extends State<TextInputWidget> {
             prefixIcon: Icon(Icons.message), labelText: "Type a message bro: "),
         onChanged: (text) => this.changeText(text),
       ),
-      Text(this.text
+      Text(this.text]
     ]);
   }
 }
